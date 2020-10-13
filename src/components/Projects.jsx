@@ -23,8 +23,8 @@ export default class Projects extends Component {
 												<p>Full stack application that allows users to locate and post yard sales in a user’s defined community while mapping results for visualization.  Built using React, Ruby on Rails, PSQL, and Google Maps API. User authentication is achieved via JWT token authenticaion.</p>
 											</span>
 											<p className="icon">
-												<span><a href="https://github.com/shannonmaloy/yard-sales" target="_blank"><i className="icon-github" /> Github</a></span>
-												<span><a href="https://yard-sales.herokuapp.com/" target="_blank"><i className="devicon-heroku-plain-wordmark" /> Deployed App</a></span>
+												<span><a href="https://github.com/shannonmaloy/yard-sales" target="_blank" rel="noopener noreferrer"><i className="icon-github" /> Github</a></span>
+												<span><a href="https://yard-sales.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="devicon-heroku-plain-wordmark" /> Deployed App</a></span>
 											</p>
 										</div>
 									</div>
@@ -40,8 +40,8 @@ export default class Projects extends Component {
 														The app also leverages react-chartjs-2 and chart.js for data visualization and moment for date manipulation.</p>
 														<p>The data is provided by The COVID Tracking Project API.</p></span>
 											<p className="icon">
-												<span><a href="https://github.com/shannonmaloy/covidtracker" target="_blank"><i className="icon-github" /> Github</a></span>
-												<span><a href="https://uscovidtracker.herokuapp.com/" target="_blank"><i className="devicon-heroku-plain-wordmark" /> Deployed App</a></span>
+												<span><a href="https://github.com/shannonmaloy/covidtracker" target="_blank" rel="noopener noreferrer"><i className="icon-github" /> Github</a></span>
+												<span><a href="https://uscovidtracker.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="devicon-heroku-plain-wordmark" /> Deployed App</a></span>
 											</p>
 										</div>
 									</div>
@@ -56,8 +56,8 @@ export default class Projects extends Component {
 														<p>Browser based version of the classic game, Yahtzee, with up to 4 player capability. Built using Javascript, HTML and CSS.</p>
 														</span>
 											<p className="icon">
-												<span><a href="https://github.com/shannonmaloy/YAHTZEE" target="_blank"><i className="icon-github" /> Github</a></span>
-												<span><a href="https://shannonmaloy.github.io/YAHTZEE/" target="_blank"><i className="icon-github" /> Deployed App</a></span>
+												<span><a href="https://github.com/shannonmaloy/YAHTZEE" target="_blank" rel="noopener noreferrer"><i className="icon-github" /> Github</a></span>
+												<span><a href="https://shannonmaloy.github.io/YAHTZEE/" target="_blank" rel="noopener noreferrer"><i className="icon-github" /> Deployed App</a></span>
 											</p>
 										</div>
 									</div>
@@ -73,8 +73,8 @@ export default class Projects extends Component {
 											<p>Users have the option to log-in and create a user profile with user authentication via passport and bcrypt.js.</p>
 											</span>
 											<p className="icon">
-												<span><a href="https://github.com/shannonmaloy/WhatsForDinner" target="_blank"><i className="icon-github" /> Github</a></span>
-												<span><a href="https://what-is-for-dinner.herokuapp.com/" target="_blank"><i className="devicon-heroku-plain-wordmark" /> Deployed App</a></span>
+												<span><a href="https://github.com/shannonmaloy/WhatsForDinner" target="_blank" rel="noopener noreferrer"><i className="icon-github" /> Github</a></span>
+												<span><a href="https://what-is-for-dinner.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="devicon-heroku-plain-wordmark" /> Deployed App</a></span>
 											</p>
 										</div>
 									</div>
