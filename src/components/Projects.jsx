@@ -20,7 +20,7 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Yard Sale!</a></h3>
 											<span>
 												<p>Stack: React, Ruby on Rails, PostgreSQL</p>
-												<p>Full stack application that allows users to locate and post yard sales in a user’s defined community while mapping results for visualization.  Built using React, Ruby on Rails, PSQL, and Google Maps API. User authentication is achieved via JWT token authenticaion.</p>
+												<p>Full stack application that allows users to search for and post yard sales. Results are mapped via Google Maps API for visualization.  Built using React, Ruby on Rails, PSQL, and Google Maps API. User authentication is achieved via JWT token authenticaion.</p>
 											</span>
 											<p className="icon">
 												<span><a href="https://github.com/shannonmaloy/yard-sales" target="_blank" rel="noopener noreferrer"><i className="icon-github" /> Github</a></span>
