@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 export default class Home extends Component {
   render() {
     return (
-      <div>
+      <div> 
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
             <div className="flexslider js-fullheight">
                 <ul className="slides">
