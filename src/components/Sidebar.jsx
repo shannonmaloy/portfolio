@@ -28,7 +28,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.linkedin.com/in/shannon-maloy" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/shannonmaloy" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="https://drive.google.com/file/d/1AbhMf0UJdIazsBVXtH2k9BA9gZSr9d3I/view?usp=sharing" target="_blank"><i className="icon-download4" /></a></li>
+                <li><a href="https://drive.google.com/file/d/1XJXv1LaOjeyUlvnCIayBLKRDi05G3Tj3/view?usp=sharing" target="_blank"><i className="icon-download4" /></a></li>
               </ul>
             </nav>
             {/* <div className="colorlib-footer">
